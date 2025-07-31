@@ -37,7 +37,7 @@ Le moteur utilise le **raycasting** pour simuler la 3D :
 - On applique la texture correspondante sur la colonne.
 - On répète pour chaque colonne de l'écran pour obtenir l'effet 3D.
 
-L'algorithme utilisé est le **DDA (Digital Differential Analyzer)**, qui permet de parcourir efficacement la grille de la map pour détecter les collisions avec les murs.
+L'algorithme utilisé est généralement le **DDA (Digital Differential Analyzer)**, qui permet de parcourir efficacement la grille de la map pour détecter les collisions avec les murs.
 
 ### Minimap
 
@@ -115,4 +115,6 @@ Usage: ./cube3d <map.cub>
 - Le projet respecte les normes de l'école 42 (pas de fonction interdite, gestion stricte de la mémoire).
 - Les erreurs de parsing, de chargement de textures ou d'initialisation sont gérées et affichent un message explicite.
 
-  
+## Auteur
+
+- ilkaddou
