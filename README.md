@@ -115,6 +115,4 @@ Usage: ./cube3d <map.cub>
 - Le projet respecte les normes de l'école 42 (pas de fonction interdite, gestion stricte de la mémoire).
 - Les erreurs de parsing, de chargement de textures ou d'initialisation sont gérées et affichent un message explicite.
 
-## Auteur
-
-- ilkaddou
+  > Have fun !
