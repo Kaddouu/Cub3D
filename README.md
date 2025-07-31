@@ -2,6 +2,8 @@
 
 Ce projet est un exercice de l'école 42 qui consiste à réaliser un mini-moteur 3D inspiré de Wolfenstein 3D, en utilisant la technique du raycasting. Il permet de se déplacer dans un labyrinthe en vue subjective, avec gestion des textures, de la minimap et des interactions clavier/souris.
 
+![Cub3d](https://github.com/user-attachments/assets/32df788d-98fd-42e8-8cde-a7b5c183ab59)
+
 ## Fonctionnement général
 
 Le programme lit une carte (map) au format texte `.cub` qui décrit le labyrinthe, les textures à utiliser, la position de départ du joueur et l'orientation initiale. Ensuite, il utilise un algorithme de raycasting pour afficher une vue pseudo-3D du labyrinthe, comme dans les premiers jeux de tir à la première personne.
